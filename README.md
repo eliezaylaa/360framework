@@ -255,7 +255,7 @@ One folder per checkpoint of the EPITECH 360° Framework. The Word files are the
 | **Muhammad Rao** | AI and back-end lead |
 | **Hadeed** | Interview methodology expert |
 
-Each role has a named backup. Who did what is in [`CONTRIBUTIONS.md`](CONTRIBUTIONS.md).
+Each role has a named backup. Who did what is in `CONTRIBUTIONS`.
 
 ---
 
