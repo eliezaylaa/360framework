@@ -229,6 +229,7 @@ One folder per checkpoint of the EPITECH 360° Framework. The Word files are the
 | 1a Product manifesto | `1a-product-manifesto/product-manifesto.docx` | `submission/1a_product-manifesto.pdf` |
 | 1b Team and rituals | `1b-team-and-rituals/team-roles-and-rituals.docx` | `submission/1b_team-and-rituals.pdf` |
 | 2a Personas | `2a-personas/personas.docx` | `submission/2a_personas.pdf` |
+| 2a Supporting annexes (not uploaded to Gandalf) | `user-research/01`, `02`, `03` and `Interview_Methodologies/04` | `submission/2a_user-research-strategy.pdf`, `2a_stakeholder-mapping.pdf`, `2a_participant-recruitment-plan.pdf`, `2a_interview-guides.pdf` |
 | 2b Storymap | `2b-storymap/storymap.docx` | `submission/2b_storymap.pdf` |
 | 3a Target architecture | `3a-target-architecture/target-architecture.docx` | `submission/3a_target-architecture.pdf` |
 | 3b Risk management | `3b-risks/risk-management.docx` | `submission/3b_risk-management.pdf` |
@@ -254,7 +255,7 @@ One folder per checkpoint of the EPITECH 360° Framework. The Word files are the
 | **Muhammad Rao** | AI and back-end lead |
 | **Hadeed** | Interview methodology expert |
 
-Each role has a named backup. Who did what is in `CONTRIBUTIONS`.
+Each role has a named backup. Who did what is in [`CONTRIBUTIONS.md`](CONTRIBUTIONS.md).
 
 ---
 
@@ -263,3 +264,7 @@ Each role has a named backup. Who did what is in `CONTRIBUTIONS`.
 Fittybird x Kiabi · EPITECH 360° Framework · project initiation
 
 </div>
+
+### Sources
+
+The Kiabi brief, the Kiabi data deck and the EPITECH framework brief are stored in the workspace root next to this repository, not inside it: `360framework-bootstrap.pdf`, `bootstrap-kiabi.pptx` and `360framework-project.pdf`. Course helper decks (`project_helper-*`) are kept in the same location. See `00-bootstrap/01-data-analysis.docx` for the figure-by-figure source notes.
